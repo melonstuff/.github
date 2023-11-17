@@ -1,1 +1,1 @@
-<img src="melonlibwide.gif"/>
+<img src="/profile/melonlibwide.gif"/>
